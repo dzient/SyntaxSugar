@@ -1,0 +1,15 @@
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net6.0\SyntaxSugar.exe
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net6.0\SyntaxSugar.deps.json
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net6.0\SyntaxSugar.runtimeconfig.json
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net6.0\SyntaxSugar.dll
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\bin\Debug\net6.0\SyntaxSugar.pdb
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.dll
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\refint\SyntaxSugar.dll
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.pdb
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\SyntaxSugar.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\SyntaxSugar\SyntaxSugar\obj\Debug\net6.0\ref\SyntaxSugar.dll
